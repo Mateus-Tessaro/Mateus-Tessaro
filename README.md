@@ -2,7 +2,7 @@
 
 <p aling="center">
 👨‍💻Cursando Técnico de Desenvolvimento de Sistemas 🖥️ - SENAI <br>
-💻Desenvolvendo Projetos em PYTHON | GODOT | PHP 📎
+💻Desenvolvendo Projetos em PYTHON | GODOT | PHP | Html | CSS📎
 </p>
 
 ---
